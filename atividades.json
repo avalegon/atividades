@@ -1,0 +1,737 @@
+[
+    {
+        "dia": "Seg",
+        "turno": [
+            {
+                "nome": "Manhã",
+                "atividades": [
+                    {
+                        "horario": "07:00",
+                        "descricao": "Acordar no horário",
+                        "estrelas": 5
+                    },
+                    {
+                        "horario": "07:10",
+                        "descricao": "Arrumar a cama",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "07:20",
+                        "descricao": "Escovar os dentes e se vestir",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "07:40",
+                        "descricao": "Café da manhã juntos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "08:00",
+                        "descricao": "Ir para a escola",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Tarde",
+                "atividades": [
+                    {
+                        "horario": "12:00",
+                        "descricao": "Almoço",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "13:00",
+                        "descricao": "Descanso tranquilo",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "14:00",
+                        "descricao": "Lição de casa (15 min)",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "15:00",
+                        "descricao": "Lanche",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "15:30",
+                        "descricao": "Ler um livro juntas e inventar outro final",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "16:30",
+                        "descricao": "Brincar livre",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "17:00",
+                        "descricao": "Regar as plantas",
+                        "estrelas": 4
+                    }
+                ]
+            },
+            {
+                "nome": "Noite",
+                "atividades": [
+                    {
+                        "horario": "18:30",
+                        "descricao": "Banho",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "19:00",
+                        "descricao": "Jantar em família",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "19:40",
+                        "descricao": "Guardar os brinquedos",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "19:50",
+                        "descricao": "Escovar os dentes e pôr o pijama",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "20:00",
+                        "descricao": "História na cama",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:30",
+                        "descricao": "Hora de dormir",
+                        "estrelas": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dia": "Ter",
+        "turno": [
+            {
+                "nome": "Manhã",
+                "atividades": [
+                    {
+                        "horario": "07:00",
+                        "descricao": "Acordar e dar bom dia",
+                        "estrelas": 5
+                    },
+                    {
+                        "horario": "07:10",
+                        "descricao": "Arrumar a cama",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "07:20",
+                        "descricao": "Escovar os dentes e se vestir",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "07:40",
+                        "descricao": "Café da manhã juntos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "08:00",
+                        "descricao": "Ir para a escola",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Tarde",
+                "atividades": [
+                    {
+                        "horario": "12:00",
+                        "descricao": "Almoço",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "13:00",
+                        "descricao": "Descanso tranquilo",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "14:00",
+                        "descricao": "Lição de casa (15 min)",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "15:00",
+                        "descricao": "Lanche",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "15:30",
+                        "descricao": "Pintar, recortar e colar",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "16:30",
+                        "descricao": "Brincar livre",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "17:00",
+                        "descricao": "Ajudar a pôr a mesa do jantar",
+                        "estrelas": 4
+                    }
+                ]
+            },
+            {
+                "nome": "Noite",
+                "atividades": [
+                    {
+                        "horario": "18:30",
+                        "descricao": "Banho",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "19:00",
+                        "descricao": "Jantar em família",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "19:40",
+                        "descricao": "Guardar os brinquedos",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "19:50",
+                        "descricao": "Escovar os dentes e pôr o pijama",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "20:00",
+                        "descricao": "História na cama",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:30",
+                        "descricao": "Hora de dormir",
+                        "estrelas": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dia": "Qua",
+        "turno": [
+            {
+                "nome": "Manhã",
+                "atividades": [
+                    {
+                        "horario": "07:00",
+                        "descricao": "Acordar e dar bom dia",
+                        "estrelas": 5
+                    },
+                    {
+                        "horario": "07:10",
+                        "descricao": "Arrumar a cama",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "07:20",
+                        "descricao": "Escovar os dentes e se vestir",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "07:40",
+                        "descricao": "Café da manhã juntos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "08:00",
+                        "descricao": "Ir para a escola",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Tarde",
+                "atividades": [
+                    {
+                        "horario": "12:00",
+                        "descricao": "Almoço",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "13:00",
+                        "descricao": "Descanso tranquilo",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "14:00",
+                        "descricao": "Lição de casa (15 min)",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "15:00",
+                        "descricao": "Lanche",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "15:30",
+                        "descricao": "Dançar, pular corda ou andar de bicicleta",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "16:30",
+                        "descricao": "Brincar livre",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "17:00",
+                        "descricao": "Guardar os sapatos no lugar",
+                        "estrelas": 4
+                    }
+                ]
+            },
+            {
+                "nome": "Noite",
+                "atividades": [
+                    {
+                        "horario": "18:30",
+                        "descricao": "Banho",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "19:00",
+                        "descricao": "Jantar em família",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "19:40",
+                        "descricao": "Guardar os brinquedos",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "19:50",
+                        "descricao": "Escovar os dentes e pôr o pijama",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "20:00",
+                        "descricao": "História na cama",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:30",
+                        "descricao": "Hora de dormir",
+                        "estrelas": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dia": "Qui",
+        "turno": [
+            {
+                "nome": "Manhã",
+                "atividades": [
+                    {
+                        "horario": "07:00",
+                        "descricao": "Acordar e dar bom dia",
+                        "estrelas": 5
+                    },
+                    {
+                        "horario": "07:10",
+                        "descricao": "Arrumar a cama",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "07:20",
+                        "descricao": "Escovar os dentes e se vestir",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "07:40",
+                        "descricao": "Café da manhã juntos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "08:00",
+                        "descricao": "Ir para a escola",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Tarde",
+                "atividades": [
+                    {
+                        "horario": "12:00",
+                        "descricao": "Almoço",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "13:00",
+                        "descricao": "Descanso tranquilo",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "14:00",
+                        "descricao": "Lição de casa (15 min)",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "15:00",
+                        "descricao": "Lanche",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "15:30",
+                        "descricao": "Fazer uma receita fácil juntas",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "16:30",
+                        "descricao": "Brincar livre",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "17:00",
+                        "descricao": "Separar as meias limpas",
+                        "estrelas": 4
+                    }
+                ]
+            },
+            {
+                "nome": "Noite",
+                "atividades": [
+                    {
+                        "horario": "18:30",
+                        "descricao": "Banho",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "19:00",
+                        "descricao": "Jantar em família",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "19:40",
+                        "descricao": "Guardar os brinquedos",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "19:50",
+                        "descricao": "Escovar os dentes e pôr o pijama",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "20:00",
+                        "descricao": "História na cama",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:30",
+                        "descricao": "Hora de dormir",
+                        "estrelas": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dia": "Sex",
+        "turno": [
+            {
+                "nome": "Manhã",
+                "atividades": [
+                    {
+                        "horario": "07:00",
+                        "descricao": "Acordar e dar bom dia",
+                        "estrelas": 5
+                    },
+                    {
+                        "horario": "07:10",
+                        "descricao": "Arrumar a cama",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "07:20",
+                        "descricao": "Escovar os dentes e se vestir",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "07:40",
+                        "descricao": "Café da manhã juntos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "08:00",
+                        "descricao": "Ir para a escola",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Tarde",
+                "atividades": [
+                    {
+                        "horario": "12:00",
+                        "descricao": "Almoço",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "13:00",
+                        "descricao": "Descanso tranquilo",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "14:00",
+                        "descricao": "Lição de casa (15 min)",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "15:00",
+                        "descricao": "Lanche",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "15:30",
+                        "descricao": "Jogo de tabuleiro ou quebra-cabeça",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "16:30",
+                        "descricao": "Brincar livre",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "17:00",
+                        "descricao": "Esvaziar a mochila da semana",
+                        "estrelas": 4
+                    }
+                ]
+            },
+            {
+                "nome": "Noite",
+                "atividades": [
+                    {
+                        "horario": "18:30",
+                        "descricao": "Banho",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "19:00",
+                        "descricao": "Jantar em família",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "19:40",
+                        "descricao": "Cinema em casa com pipoca",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:40",
+                        "descricao": "Escovar os dentes e pôr o pijama",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "21:00",
+                        "descricao": "Hora de dormir",
+                        "estrelas": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dia": "Sáb",
+        "turno": [
+            {
+                "nome": "Manhã",
+                "atividades": [
+                    {
+                        "horario": "08:00",
+                        "descricao": "Acordar sem pressa",
+                        "estrelas": 5
+                    },
+                    {
+                        "horario": "08:15",
+                        "descricao": "Arrumar a cama",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "08:30",
+                        "descricao": "Café da manhã com panqueca",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "09:30",
+                        "descricao": "Arrumar o quarto com música",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "10:30",
+                        "descricao": "Passeio: parque, praça ou feira",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Tarde",
+                "atividades": [
+                    {
+                        "horario": "12:30",
+                        "descricao": "Almoço",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "13:30",
+                        "descricao": "Descanso tranquilo",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "15:00",
+                        "descricao": "Brincar com amigos ou primos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "16:30",
+                        "descricao": "Lanche",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "17:00",
+                        "descricao": "Explorar a natureza: folhas, pedrinhas, bichinhos",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Noite",
+                "atividades": [
+                    {
+                        "horario": "18:30",
+                        "descricao": "Banho",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "19:00",
+                        "descricao": "Pizza caseira feita juntos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:15",
+                        "descricao": "Escovar os dentes e pôr o pijama",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "20:30",
+                        "descricao": "História na cama",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "21:00",
+                        "descricao": "Hora de dormir",
+                        "estrelas": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dia": "Dom",
+        "turno": [
+            {
+                "nome": "Manhã",
+                "atividades": [
+                    {
+                        "horario": "08:00",
+                        "descricao": "Acordar sem pressa",
+                        "estrelas": 5
+                    },
+                    {
+                        "horario": "08:15",
+                        "descricao": "Arrumar a cama",
+                        "estrelas": 4
+                    },
+                    {
+                        "horario": "08:30",
+                        "descricao": "Café da manhã juntos",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "09:30",
+                        "descricao": "Ligar ou visitar os avós",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "11:00",
+                        "descricao": "Brincadeira ao ar livre",
+                        "estrelas": 2
+                    }
+                ]
+            },
+            {
+                "nome": "Tarde",
+                "atividades": [
+                    {
+                        "horario": "12:30",
+                        "descricao": "Almoço em família",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "14:00",
+                        "descricao": "Descanso tranquilo",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "15:30",
+                        "descricao": "Desenhar o melhor momento da semana",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "16:30",
+                        "descricao": "Lanche",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "17:00",
+                        "descricao": "Preparar a mochila e a roupa de segunda",
+                        "estrelas": 4
+                    }
+                ]
+            },
+            {
+                "nome": "Noite",
+                "atividades": [
+                    {
+                        "horario": "18:30",
+                        "descricao": "Banho",
+                        "estrelas": 3
+                    },
+                    {
+                        "horario": "19:00",
+                        "descricao": "Jantar em família",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "19:40",
+                        "descricao": "Roda de conversa: o que foi legal na semana?",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:00",
+                        "descricao": "História na cama",
+                        "estrelas": 2
+                    },
+                    {
+                        "horario": "20:30",
+                        "descricao": "Hora de dormir",
+                        "estrelas": 5
+                    }
+                ]
+            }
+        ]
+    }
+]
